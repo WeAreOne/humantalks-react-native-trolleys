@@ -17,6 +17,8 @@
 ## Installation : 
 npm install
 
+rnpm link
+
 react-native run-ios
 
 react-native run-android
