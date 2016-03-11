@@ -1,15 +1,15 @@
 # HumanTalks Trolleys Application with React Native
 
 ## iOS : 
-![list view](/screenshots/ios_screenshot.png =300x500)
-![map view](/screenshots/ios_screenshot_1.png =300x500)
+![list view](/screenshots/ios_screenshot.png)
+![map view](/screenshots/ios_screenshot_1.png)
 
 ---
 
 
 ## Android :
-![list view](/screenshots/android_screenshot.png =300x500)
-![map view](/screenshots/android_screenshot_1.png =300x500)
+![list view](/screenshots/android_screenshot.png)
+![map view](/screenshots/android_screenshot_1.png)
 
 ---
 
